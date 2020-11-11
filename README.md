@@ -1,1 +1,1 @@
-init
+python scoreboard.py
